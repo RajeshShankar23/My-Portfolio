@@ -26,26 +26,25 @@ in data analysis techniques, model building, and evaluation methodologies.
 
 • Mentored and guided 20 + students' projects, offering guidance and support throughout the project lifecycle.
 
+### Projects:
+
 ### Response modelling Project:
 
 • Developed a response model for a supermarket's marketing campaigns, aimed at improving the
 response rate by 20% and maximizing profitability.
+
 • Conducted exploratory data analysis (EDA) to gain insights into the data characteristics, and calculated the baseline event rate to be 14.9%.
 • Cleaned and preprocessed the data then built
 different models and selected GBM as the best model with 86% accuracy.
+
 • Evaluated model's probability discrimination, finding that 58% of responders are concentrated in the first decile.
+
 • Discovered the top 10 drivers impacting the
 response, including income, product purchase behaviors, and marital status.
+
 • Prioritized customers based on their engagement levels and spend categories, and tailored treatments by recommending offers for specific product categories.
 
 
-
-
-
-
-
-
-###Projects:
 
 
 
