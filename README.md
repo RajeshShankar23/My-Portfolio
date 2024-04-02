@@ -21,11 +21,19 @@ Data Analyst Intern @ Edure (Jan 2019- June 2020)
 
 • Utilized various statistical and  important machine learning techniques to perform in- depth data analysis and extract meaningful insights.
 
-
 • Delivered comprehensive training sessions to 50 + students, imparting knowledge
 in data analysis techniques, model building, and evaluation methodologies.
 
 • Mentored and guided 20 + students' projects, offering guidance and support throughout the project lifecycle.
+
+### Projects:
+
+
+
+
+
+
+
 
 ###Projects:
 
