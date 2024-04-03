@@ -28,7 +28,7 @@ in data analysis techniques, model building, and evaluation methodologies.
 
 ### Projects:
 
-### Response modelling Project:
+### [Response modelling Project:] : (https://github.com/RajeshShankar23/Response-Modelling-Project)
 
 • Developed a response model for a supermarket's marketing campaigns, aimed at improving the
 response rate by 20% and maximizing profitability.
