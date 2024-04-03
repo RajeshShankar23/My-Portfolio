@@ -46,6 +46,9 @@ response, including income, product purchase behaviors, and marital status.
 
 ![](https://github.com/RajeshShankar23/My-Portfolio/blob/main/images/response.png)
 
+### [Churn Analytics Project:](https://github.com/RajeshShankar23/Churn-Analysis)
+
+
 
 
 
