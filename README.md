@@ -44,6 +44,8 @@ response, including income, product purchase behaviors, and marital status.
 
 • Prioritized customers based on their engagement levels and spend categories, and tailored treatments by recommending offers for specific product categories.
 
+![](https://github.com/RajeshShankar23/My-Portfolio/blob/main/images/response.png)
+
 
 
 
