@@ -97,7 +97,7 @@ response, including income, product purchase behaviors, and marital status.
 
 • Additionally, suggestions were made for reassessing underperforming categories, optimizing medium-value items, and developing a dashboard for informed decision-making.
 
-![](images/abc class.png)
+![](images/abcclass.png)
 
 ### [E-commerce Analysis Project:](https://github.com/RajeshShankar23/E-Commerce-Analysis-in-PowerBI)
 
