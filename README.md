@@ -48,6 +48,56 @@ response, including income, product purchase behaviors, and marital status.
 
 ### [Churn Analytics Project:](https://github.com/RajeshShankar23/Churn-Analysis)
 
+• The churn analysis for Databel involved a comprehensive approach, including data verification, identifying churn factors, regional and demographic analysis, and evaluating the impact of contract types and service offerings.
+
+• Insights revealed key drivers of churn such as competitive offerings and customer service quality, along with regional and demographic variations.
+
+• Recommendations focus on improving competitive positioning, enhancing customer service experiences, promoting contract stability, and implementing targeted retention strategies to mitigate churn and enhance overall business performance.
+
+### [Customer Analytics Project:](https://github.com/RajeshShankar23/Customer-Analytics)
+
+• The project involved three key modeling approaches: Purchase Incidence Modeling, Brand Choice Modeling, and Purchase Quantity Modeling, employing logistic regression and multinomial logistic regression to predict purchase probabilities and brand choices.
+
+• Insights revealed varying levels of price sensitivity among different customer segments and highlighted brand preferences and potential substitutes, informing targeted marketing strategies.
+
+• Recommendations include incorporating additional features for more accurate predictions, conducting granular segmentation analysis, and exploring alternative modeling techniques to optimize marketing strategies and increase profitability in the competitive marketplace.
+
+### [Supply Chain Analytics Project:](https://github.com/RajeshShankar23/Supply-Chain-Analytics)
+
+• The project at Ternate Industries involved a detailed analysis of the make versus buy decision for replacement parts of industrial pizza ovens
+
+• Through quotes analysis, supplier exploration, and scenario analysis tools, the team identified cost trends, supplier contributions, and evaluated the full costs of internal production estimates to make informed decisions.
+
+• Insights highlighted the importance of supplier optimization, dynamic scenario analysis, and internal production efficiency to maximize cost savings and maintain competitiveness in the market.
+
+### [Financial Analysis Project:](https://github.com/RajeshShankar23/Financial-Analysis)
+
+• The financial analytics report for Spaero Technology utilized a range of analytical techniques including profitability analysis, revenue performance evaluation, and customer analytics to provide comprehensive insights into the company's financial health and strategic opportunities. 
+
+• Key findings highlighted pricing strategies to boost sales volume, targeted marketing approaches based on customer distribution, and investment prioritization based on capital budgeting metrics like NPV and IRR. 
+
+• Recommendations focused on adjusting pricing strategies, expanding market presence, continuing scenario analysis for forecasting, and prioritizing investments for maximum returns, all aimed at fostering sustainable growth and profitability for Spaero Technology.
+
+### [Inventory Analytics Project:](https://github.com/RajeshShankar23/Inventory-Analysis)
+
+• The inventory analytics report conducted for WarmeHands Incorporated employed data cleaning and key metric calculations to evaluate the company's financial performance in 2020 and 2021. 
+
+• Detailed analysis revealed top-selling items, shifts in revenue percentages, and the significance of high-value items identified through ABC analysis. 
+
+• Recommendations focused on prioritizing high-value items for inventory management, streamlining inventory by discontinuing low-value items, and optimizing purchasing decisions based on COGS to revenue ratio analysis. 
+
+• Additionally, suggestions were made for reassessing underperforming categories, optimizing medium-value items, and developing a dashboard for informed decision-making.
+
+### [E-commerce Analysis Project:](https://github.com/RajeshShankar23/E-Commerce-Analysis-in-PowerBI)
+
+• The e-commerce analysis project focused on driving sales growth, reducing operational costs, and enhancing customer satisfaction for the client's online pet supply store.
+
+• Leveraging Power BI, the project involved analyzing sales data, implementing quantity-based promotions, and segmenting customers using RFM analysis.
+
+• Recommendations included targeting regions with high shipping costs for optimization, implementing promotional strategies tailored to product categories, and enhancing customer engagement through loyalty programs
+
+• By implementing these strategies, the project aimed to drive sustainable growth and profitability in the competitive e-commerce landscape.
+
 
 
 
