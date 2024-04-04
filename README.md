@@ -55,6 +55,8 @@ response, including income, product purchase behaviors, and marital status.
 
 • Recommendations focus on improving competitive positioning, enhancing customer service experiences, promoting contract stability, and implementing targeted retention strategies to mitigate churn and enhance overall business performance.
 
+![](images/churn.PNG)
+
 ### [Customer Analytics Project:](https://github.com/RajeshShankar23/Customer-Analytics)
 
 • The project involved three key modeling approaches: Purchase Incidence Modeling, Brand Choice Modeling, and Purchase Quantity Modeling, employing logistic regression and multinomial logistic regression to predict purchase probabilities and brand choices.
@@ -62,6 +64,8 @@ response, including income, product purchase behaviors, and marital status.
 • Insights revealed varying levels of price sensitivity among different customer segments and highlighted brand preferences and potential substitutes, informing targeted marketing strategies.
 
 • Recommendations include incorporating additional features for more accurate predictions, conducting granular segmentation analysis, and exploring alternative modeling techniques to optimize marketing strategies and increase profitability in the competitive marketplace.
+
+![](images/elasticity.png)
 
 ### [Supply Chain Analytics Project:](https://github.com/RajeshShankar23/Supply-Chain-Analytics)
 
@@ -71,6 +75,8 @@ response, including income, product purchase behaviors, and marital status.
 
 • Insights highlighted the importance of supplier optimization, dynamic scenario analysis, and internal production efficiency to maximize cost savings and maintain competitiveness in the market.
 
+![](images/makevsbuy.png)
+
 ### [Financial Analysis Project:](https://github.com/RajeshShankar23/Financial-Analysis)
 
 • The financial analytics report for Spaero Technology utilized a range of analytical techniques including profitability analysis, revenue performance evaluation, and customer analytics to provide comprehensive insights into the company's financial health and strategic opportunities. 
@@ -78,6 +84,8 @@ response, including income, product purchase behaviors, and marital status.
 • Key findings highlighted pricing strategies to boost sales volume, targeted marketing approaches based on customer distribution, and investment prioritization based on capital budgeting metrics like NPV and IRR. 
 
 • Recommendations focused on adjusting pricing strategies, expanding market presence, continuing scenario analysis for forecasting, and prioritizing investments for maximum returns, all aimed at fostering sustainable growth and profitability for Spaero Technology.
+
+![](images/npv.png)
 
 ### [Inventory Analytics Project:](https://github.com/RajeshShankar23/Inventory-Analysis)
 
@@ -89,6 +97,8 @@ response, including income, product purchase behaviors, and marital status.
 
 • Additionally, suggestions were made for reassessing underperforming categories, optimizing medium-value items, and developing a dashboard for informed decision-making.
 
+![](images/abc class.png)
+
 ### [E-commerce Analysis Project:](https://github.com/RajeshShankar23/E-Commerce-Analysis-in-PowerBI)
 
 • The e-commerce analysis project focused on driving sales growth, reducing operational costs, and enhancing customer satisfaction for the client's online pet supply store.
@@ -98,6 +108,8 @@ response, including income, product purchase behaviors, and marital status.
 • Recommendations included targeting regions with high shipping costs for optimization, implementing promotional strategies tailored to product categories, and enhancing customer engagement through loyalty programs
 
 • By implementing these strategies, the project aimed to drive sustainable growth and profitability in the competitive e-commerce landscape.
+
+![](images/shippingmetrics.png)
 
 
 ### Other Projects:
