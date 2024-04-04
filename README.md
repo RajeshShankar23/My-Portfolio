@@ -99,6 +99,19 @@ response, including income, product purchase behaviors, and marital status.
 • By implementing these strategies, the project aimed to drive sustainable growth and profitability in the competitive e-commerce landscape.
 
 
+### Other Projects;
+
+### [Retail Customer Analytics Project:](https://github.com/RajeshShankar23/Retail-Customer-Analytics)
+
+### [Retail Management Project:](https://github.com/RajeshShankar23/Retail-Management)
+
+### [Bank Loan Case Study:](https://github.com/RajeshShankar23/Bank-Loan-Case-Study)
+
+### [Car Price Analytics Project:](https://github.com/RajeshShankar23/Car-Price-Analytics)
+
+
+
+
 
 
 
