@@ -114,6 +114,8 @@ response, including income, product purchase behaviors, and marital status.
 
 ### Other Projects:
 
+### [Altiq Mart Supply Chain Analytics Project:](https://github.com/RajeshShankar23/Altiq-Mart-Supply-Chain-Analysis)
+
 ### [Retail Customer Analytics Project:](https://github.com/RajeshShankar23/Retail-Customer-Analytics)
 
 ### [Retail Management Project:](https://github.com/RajeshShankar23/Retail-Management)
