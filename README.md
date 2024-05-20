@@ -15,7 +15,7 @@ software, delivered the project on time and within budget increasing the custome
 
 • Authored detailed technical documentation for the 70 % CRM module of TecERP software, providing clear guidelines and instructions for its customisations.
 
-Data Analyst Intern @ Edure (Jan 2019- June 2020)
+Data Analyst Intern @ Edure (Jan 2022- July 2023)
 
 • Conducted data cleaning and preprocessing tasks to ensure the 80% accuracy and integrity of datasets used for analysis.
 
